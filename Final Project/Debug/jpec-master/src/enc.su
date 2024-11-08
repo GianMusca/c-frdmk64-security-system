@@ -1,0 +1,17 @@
+../jpec-master/src/enc.c:50:13:jpec_enc_new	32	static
+../jpec-master/src/enc.c:54:13:jpec_enc_new2	32	static
+../jpec-master/src/enc.c:74:6:jpec_enc_del	16	static
+../jpec-master/src/enc.c:83:16:jpec_enc_run	16	static
+../jpec-master/src/enc.c:98:13:jpec_enc_init_dqt	32	static
+../jpec-master/src/enc.c:109:13:jpec_enc_open	16	static
+../jpec-master/src/enc.c:121:13:jpec_enc_close	16	static
+../jpec-master/src/enc.c:127:13:jpec_enc_write_soi	16	static
+../jpec-master/src/enc.c:132:13:jpec_enc_write_app0	16	static
+../jpec-master/src/enc.c:149:13:jpec_enc_write_dqt	24	static
+../jpec-master/src/enc.c:159:13:jpec_enc_write_sof0	16	static
+../jpec-master/src/enc.c:172:13:jpec_enc_write_dht	32	static
+../jpec-master/src/enc.c:194:13:jpec_enc_write_sos	16	static
+../jpec-master/src/enc.c:207:12:jpec_enc_next_block	24	static
+../jpec-master/src/enc.c:217:13:jpec_enc_block_dct	360	static
+../jpec-master/src/enc.c:267:13:jpec_enc_block_quant	24	static
+../jpec-master/src/enc.c:274:13:jpec_enc_block_zz	24	static

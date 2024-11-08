@@ -1,0 +1,8 @@
+../source/timer.c:76:6:timerInit	4	static
+../source/timer.c:90:10:timerGetId	16	static
+../source/timer.c:111:6:timerStart	24	static
+../source/timer.c:135:6:timerStop	16	static
+../source/timer.c:145:6:timerRunning	16	static
+../source/timer.c:149:6:timerExpired	16	static
+../source/timer.c:159:6:timerDelay	16	static
+../source/timer.c:175:13:timer_isr	16	static

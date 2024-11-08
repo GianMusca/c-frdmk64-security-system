@@ -1,0 +1,11 @@
+../source/OV7670.c:103:6:OV7670_Init	40	static
+../source/OV7670.c:176:6:OV7670_Config	24	static
+../source/OV7670.c:182:6:I2C_finished_callback	4	static
+../source/OV7670.c:188:14:OV7670_GetState	4	static
+../source/OV7670.c:191:6:OV7670_TakePicture	16	static
+../source/OV7670.c:196:6:OV7670_GetPicture	16	static
+../source/OV7670.c:202:6:vertical_sync_rising	32	static
+../source/OV7670.c:242:6:DMA_mayor_int	4	static
+../source/OV7670.c:256:6:horizontal_ref_falling	8	static
+../source/OV7670.c:307:6:OV7670_run	16	static
+../source/OV7670.c:314:6:OV7670_process_new_line	16	static

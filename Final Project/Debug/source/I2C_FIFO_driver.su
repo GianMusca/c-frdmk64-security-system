@@ -1,0 +1,6 @@
+../source/I2C_FIFO_driver.c:27:6:I2C_FIFO_init	8	static
+../source/I2C_FIFO_driver.c:42:6:I2C_FIFO_new_message	24	static
+../source/I2C_FIFO_driver.c:60:13:I2C_FIFO_send_next_message	40	static
+../source/I2C_FIFO_driver.c:75:6:I2C_FIFO_empty_callback	16	static
+../source/I2C_FIFO_driver.c:79:13:I2C_FIFO_end_routine_callback	8	static
+../source/I2C_FIFO_driver.c:84:6:I2C_FIFO_is_empty	4	static

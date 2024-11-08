@@ -1,0 +1,26 @@
+C:\Users\alero\Documents\MCUXpressoIDE_11.5.1_7266\workspace\TPF Grupo2 - V6.10\CMSIS/core_cm4.h:1679:22:__NVIC_EnableIRQ	16	static
+../source/FTM.c:27:9:FTM0_IRQHandler	16	static
+../source/FTM.c:32:6:PWM_ISR	8	static
+../source/FTM.c:42:6:FTM_Init	8	static
+../source/FTM.c:111:6:PWM_Init	16	static
+../source/FTM.c:157:6:FTM_SetPrescaler	16	static
+../source/FTM.c:162:6:FTM_SetModulus	16	static
+../source/FTM.c:169:11:FTM_GetModulus	16	static
+../source/FTM.c:174:6:FTM_StartClock	16	static
+../source/FTM.c:179:6:FTM_StopClock	16	static
+../source/FTM.c:184:6:FTM_SetOverflowMode	16	static
+../source/FTM.c:189:6:FTM_IsOverflowPending	16	static
+../source/FTM.c:194:6:FTM_ClearOverflowFlag	16	static
+../source/FTM.c:199:6:FTM_SetWorkingMode	24	static
+../source/FTM.c:205:11:FTM_GetWorkingMode	16	static
+../source/FTM.c:210:6:FTM_SetInputCaptureEdge	24	static
+../source/FTM.c:216:11:FTM_GetInputCaptureEdge	16	static
+../source/FTM.c:221:6:FTM_SetOutputCompareEffect	24	static
+../source/FTM.c:227:13:FTM_GetOutputCompareEffect	16	static
+../source/FTM.c:232:6:FTM_SetPulseWidthModulationLogic	24	static
+../source/FTM.c:238:12:FTM_GetPulseWidthModulationLogic	16	static
+../source/FTM.c:243:6:FTM_SetCounter	24	static
+../source/FTM.c:248:11:FTM_GetCounter	16	static
+../source/FTM.c:253:6:FTM_SetInterruptMode	24	static
+../source/FTM.c:258:6:FTM_IsInterruptPending	16	static
+../source/FTM.c:263:6:FTM_ClearInterruptFlag	16	static

@@ -1,0 +1,15 @@
+C:\Users\alero\Documents\MCUXpressoIDE_11.5.1_7266\workspace\TPF Grupo2 - V6.10\CMSIS/core_cm4.h:1679:22:__NVIC_EnableIRQ	16	static
+C:\Users\alero\Documents\MCUXpressoIDE_11.5.1_7266\workspace\TPF Grupo2 - V6.10\CMSIS/core_cm4.h:1698:26:__NVIC_GetEnableIRQ	16	static
+../source/gpio.c:52:13:gpioCG	16	static
+../source/gpio.c:74:6:gpioMode	40	static
+../source/gpio.c:150:6:gpioWrite	32	static
+../source/gpio.c:167:6:gpioToggle	32	static
+../source/gpio.c:179:6:gpioRead	32	static
+../source/gpio.c:197:6:gpioIRQ	40	static
+../source/gpio.c:221:6:gpioDMA	40	static
+../source/gpio.c:237:13:interrupt_init	16	static
+../source/gpio.c:244:9:PORTA_IRQHandler	24	static
+../source/gpio.c:261:9:PORTB_IRQHandler	24	static
+../source/gpio.c:279:9:PORTC_IRQHandler	24	static
+../source/gpio.c:296:9:PORTD_IRQHandler	24	static
+../source/gpio.c:313:9:PORTE_IRQHandler	24	static

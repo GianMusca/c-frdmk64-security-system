@@ -1,0 +1,35 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${default}",
+                "${workspaceFolder}",
+                "${workspaceFolder}/header",
+                "${workspaceFolder}/SDK",
+                "${workspaceFolder}/SDK/CMSIS",
+                "${workspaceFolder}/SDK/startup",
+                "${workspaceFolder}/source",
+                "${workspaceFolder}/source/rtos/uCOSIII/src/uC-CPU",
+                "${workspaceFolder}/source/rtos/uCOSIII/src/uC-CPU/ARM-Cortex-M4/GNU",
+                "${workspaceFolder}/source/rtos/uCOSIII/src/uC-LIB",
+                "${workspaceFolder}/source/rtos/uCOSIII/src/uCOS-III/Ports/ARM-Cortex-M4/Generic/GNU",
+                "${workspaceFolder}/source/rtos/uCOSIII/src/uCOS-III/Source",
+                "${workspaceFolder}/source/ucosiii_config",
+                "${workspaceFolder}/jpec-master/src",
+                "${workspaceFolder}/jpec-master/include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.19041.0",
+            "compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio/2017/BuildTools/VC/Tools/MSVC/14.16.27023/bin/Hostx64/x64/cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-msvc-x64"
+        }
+    ],
+    "version": 4
+}

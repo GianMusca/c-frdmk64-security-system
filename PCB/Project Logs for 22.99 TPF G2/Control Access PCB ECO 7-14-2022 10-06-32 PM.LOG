@@ -1,0 +1,95 @@
+Added Component: Designator=J1(USB-MICRO-B_V)
+Add component (AddParameter): Name = "3D Model"; Value = "105017-0001.stp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Catalog Drawings"; Value = "1050170001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Connectors,Interconnects"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuits"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "USB-microB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.molex.com/elqNow/elqRedir.htm?ref=http://www.molex.com/webdocs/datasheets/pdf/en-us/1050170001_IO_CONNECTORS.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "03/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "USB,DVI,HDMIConnectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Featured Product"; Value = "Micro-USBConnectorsUSBConnectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Shielded,SolderRetention"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Receptacle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ingress Protection"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.molex.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Products"; Value = "WM17145-ND-CABLEMICROUSBBTOSTDA1.0MWM17147-ND-CABLEMICROUSBBTOSTDA2.0MWM17146-ND-CABLEMICROUSBBTOSTDA1.5M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "BoardCutout,SurfaceMount,RightAngle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "Molex-MicroUSB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "WM1399DKR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "5-Leads USB, Micro B, Body 7.5 x 5 mm, Pitch 0.65 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "MICRO-B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package URL"; Value = "http://www.molex.com/pdm_docs/sd/1050170001_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Version"; Value = "Rev. F, 12/2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Digi-Reel®"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCN Assembly/Origin"; Value = "ResinSupplier21/Oct/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Information"; Value = "1050170001CertofCompliance"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specifications"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Max"; Value = "30V"; VariantName = "[No Variations]"
+Added Component: Designator=J2(SWITCH-RAPC712X-3_V)
+Add component (AddParameter): Name = "Catalog Drawings"; Value = "RAPC7(1,2)2XSide
+
+RAPC7(1,2)2XTop"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Connectors,Interconnects"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Jack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material - Plating"; Value = "Nickel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/391/rapc712x-cd-391666.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. A, 08/2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dynamic Catalog"; Value = "SwitchcraftInc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Barrel-PowerConnectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Thermoplastic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Internal Switch(s)"; Value = "SingleSwitch,NormallyClosed"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Switchcraft"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.switchcraft.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Products"; Value = "SC1539-ND
+-CONNPLUGMINIPWR2CONDBLK/RED
+SC1051-ND
+-CONNPLUGMINIPOWER2CONDBLACK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "ThroughHole,RightAngle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions/Contacts"; Value = "2Conductors,2Contacts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "Q2387461
+Q2526383
+RAPC712X-ND
+SC237"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Plug/Mating Plug Diameter"; Value = "2.5mmID,5.5mmOD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Information"; Value = "SwitchcraftRoHSInfo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shielding"; Value = "Unshielded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "2,500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SolderEyelet(s)"; VariantName = "[No Variations]"
+Added Component: Designator=R1(0805)
+Added Component: Designator=R2(0805)
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=GND Pin=J1-7
+Added Pin To Net: NetName=GND Pin=J1-8
+Added Pin To Net: NetName=GND Pin=J1-9
+Added Pin To Net: NetName=GND Pin=J1-10
+Added Pin To Net: NetName=GND Pin=J1-11
+Added Net: Name=GND
+Added Pin To Net: NetName=K64_MICRO_USB_DN Pin=R1-2
+Added Pin To Net: NetName=K64_MICRO_USB_DN Pin=U1-20
+Added Net: Name=K64_MICRO_USB_DN
+Added Pin To Net: NetName=K64_MICRO_USB_DP Pin=R2-2
+Added Pin To Net: NetName=K64_MICRO_USB_DP Pin=U1-19
+Added Net: Name=K64_MICRO_USB_DP
+Added Pin To Net: NetName=P5V0_USB_CONN_VBUS Pin=J1-1
+Added Net: Name=P5V0_USB_CONN_VBUS
+Added Pin To Net: NetName=TC_USB_ID_TP Pin=J1-4
+Added Net: Name=TC_USB_ID_TP
+Added Pin To Net: NetName=USB_CONN_DN Pin=J1-2
+Added Pin To Net: NetName=USB_CONN_DN Pin=R1-1
+Added Net: Name=USB_CONN_DN
+Added Pin To Net: NetName=USB_CONN_DP Pin=J1-3
+Added Pin To Net: NetName=USB_CONN_DP Pin=R2-1
+Added Net: Name=USB_CONN_DP
+Added Class: Name=Board
+Added Room: Name=Board

@@ -1,0 +1,6 @@
+../jpec-master/src/huff.c:51:6:jpec_huff_skel_init	16	static
+../jpec-master/src/huff.c:59:14:jpec_huff_new	16	static
+../jpec-master/src/huff.c:69:6:jpec_huff_del	16	static
+../jpec-master/src/huff.c:77:6:jpec_huff_encode_block	40	static
+../jpec-master/src/huff.c:91:13:jpec_huff_encode_block_impl	40	static
+../jpec-master/src/huff.c:151:13:jpec_huff_write_bits	40	static

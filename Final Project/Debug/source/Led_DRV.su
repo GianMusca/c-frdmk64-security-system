@@ -1,0 +1,5 @@
+../source/Led_DRV.c:66:6:Led_Init	24	static
+../source/Led_DRV.c:81:6:Led_On	16	static
+../source/Led_DRV.c:93:6:Led_Off	16	static
+../source/Led_DRV.c:105:6:Led_Toggle	16	static
+../source/Led_DRV.c:117:6:Led_Color	16	static

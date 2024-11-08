@@ -1,0 +1,31 @@
+Added Component: Designator=*(RELE SERIE 964)
+Added Component: Designator=D?(SMAK)
+Added Component: Designator=J?(BORNERA3)
+Added Component: Designator=R?(0805)
+Added Component: Designator=T?(SOT23)
+Added Pin To Net: NetName=5V_IN Pin=*-B1
+Added Pin To Net: NetName=5V_IN Pin=D?-2
+Added Pin To Net: NetName=PTE26 Pin=R?-2
+Added Pin To Net: NetName=VSS Pin=T?-3
+Added Pin To Net: NetName=COM Pin=*-C1
+Added Pin To Net: NetName=COM Pin=J?-3
+Added Net: Name=COM
+Added Pin To Net: NetName=NC Pin=*-NC1
+Added Pin To Net: NetName=NC Pin=J?-2
+Added Net: Name=NC
+Added Pin To Net: NetName=Net*_B2 Pin=*-B2
+Added Pin To Net: NetName=Net*_B2 Pin=D?-1
+Added Pin To Net: NetName=Net*_B2 Pin=T?-2
+Added Net: Name=Net*_B2
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=T?-1
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=NO Pin=*-NA1
+Added Pin To Net: NetName=NO Pin=J?-1
+Added Net: Name=NO
+Added Member To Class: ClassName=Board Member=Component * RELE SIMPLE
+Added Member To Class: ClassName=Board Member=Component D? 1N4007
+Added Member To Class: ClassName=Board Member=Component J? BORNERA 3
+Added Member To Class: ClassName=Board Member=Component R? 1K
+Added Member To Class: ClassName=Board Member=Component T? BC337
+Added Room: Name=Board

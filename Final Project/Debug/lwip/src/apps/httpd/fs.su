@@ -1,0 +1,4 @@
+../lwip/src/apps/httpd/fs.c:95:1:fs_open	40	static
+../lwip/src/apps/httpd/fs.c:170:1:fs_close	16	static
+../lwip/src/apps/httpd/fs.c:245:1:fs_bytes_left	16	static
+../lwip/src/apps/httpd/fs.c:255:7:array_concat	32	static

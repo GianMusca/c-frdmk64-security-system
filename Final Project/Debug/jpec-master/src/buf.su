@@ -1,0 +1,5 @@
+../jpec-master/src/buf.c:32:16:jpec_buffer_new	16	static
+../jpec-master/src/buf.c:36:16:jpec_buffer_new2	24	static
+../jpec-master/src/buf.c:48:6:jpec_buffer_del	16	static
+../jpec-master/src/buf.c:58:6:jpec_buffer_write_byte	24	static
+../jpec-master/src/buf.c:70:6:jpec_buffer_write_2bytes	16	static

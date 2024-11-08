@@ -1,0 +1,5 @@
+../source/magnetic_app.c:31:6:init_magnetic_ma	8	static
+../source/magnetic_app.c:34:6:enable_reading_ma	8	static
+../source/magnetic_app.c:37:6:disable_reading_ma	8	static
+../source/magnetic_app.c:40:18:get_state_ma	16	static
+../source/magnetic_app.c:64:16:get_data_ma	24	static
